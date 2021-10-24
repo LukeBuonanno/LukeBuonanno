@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LukeBuonanno
+- 👀 I’m interested in Okiso my current project (a bot)
+- 🕸️ my website is https://lukebuonanno.carrd.co/#
