@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @LukeBuonanno
-- 👀 I’m interested in Okiso my current project (a bot).
-- 🕸️ My website is https://lukebuonanno.github.io/bio
+https://lukebuonanno.github.io/bio
